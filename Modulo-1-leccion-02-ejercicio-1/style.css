@@ -1,0 +1,29 @@
+body {
+  font-family: verdana;
+}
+.titulo {
+  color: orange;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+table {
+  border-spacing: 15px;
+  border: solid rgb(51, 21, 21);
+}
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 2px;
+}
+
+tbody td {
+  text-align: center;
+}
+
+.comida {
+  font-weight: bold;
+  text-align: justify;
+}
