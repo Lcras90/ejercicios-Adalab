@@ -1,0 +1,26 @@
+.container {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.Secundario {
+    width: 499px;
+    order: 2;
+    border: crimson solid;
+    padding: 20px 10px 20px 10px;
+
+}
+.principal {
+    order: 1;
+    width: 1024px;
+    border: crimson solid;
+    padding: 20px 10px 20px 10px;
+
+}
+/*  border: rgba(64, 47, 70, 0.295) solid 2px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px 0px 20px;
+  background-color: rimagen articulo
