@@ -1,0 +1,13 @@
+.container {
+  border: rgba(64, 47, 70, 0.295) solid 2px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px 0px 20px;
+  background-color: rgb(168, 168, 245);
+}
+.menu {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+}
