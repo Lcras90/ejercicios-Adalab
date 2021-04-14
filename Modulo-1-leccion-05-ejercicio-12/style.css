@@ -1,0 +1,94 @@
+.principal {
+  background-color: rgb(36, 34, 34);
+  color: rgb(236, 228, 228);
+}
+.principalcontent {
+  width: 600px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-size: medium;
+  width: 50%;
+}
+.navmenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.barmenuitems {
+  padding-left: 15px;
+  text-decoration: none;
+  color: rgb(236, 228, 228);
+}
+.mein {
+  min-height: 80vh;
+}
+.news {
+  max-width: 600px;
+  align-items: center;
+  margin: auto;
+}
+.news .headboard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.news .notice {
+  color: rgb(63, 60, 60);
+}
+.foot {
+  border-top: grey solid 1px;
+  color: gray;
+}
+
+.final {
+  max-width: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  padding: 10px;
+}
+
+.rrss {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.rrss a {
+  text-decoration: none;
+  color: gray;
+}
+.modal {
+  background-color: rgba(10, 10, 10, 0.1);
+  display: flex;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  justify-content: center;
+}
+.modal-box {
+  border: gray solid 1px;
+  border-radius: 4px;
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  margin-top: 250px;
+  padding: 50px;
+}
+.text {
+  text-align: center;
+}
+.enlaces {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px;
+}
+.enlace .link1 {
+  border: solid black;
+}

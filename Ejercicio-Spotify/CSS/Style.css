@@ -1,0 +1,27 @@
+.main {
+  width: 250px;
+  height: 250px;
+  border: solid black;
+}
+.box {
+  background-color: blueviolet;
+  height: 100px;
+  width: 100px;
+  padding: 100px;
+  border: solid black;
+  margin: 200px;
+}
+.box:hover {
+  background-color: brown;
+}
+.box2 {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  padding: 100px;
+  border: solid black;
+  margin: 200px;
+}
+.peque {
+  color: cadetblue;
+}
