@@ -9,3 +9,6 @@ function amount(a) {
   const price2 = amount(12)
   console.log(price2)
   const price3 = amount(45)
+
+const show = document.querySelector(".container1");
+show.innerHTML = price;
