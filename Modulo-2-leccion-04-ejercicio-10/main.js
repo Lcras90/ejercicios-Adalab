@@ -20,4 +20,4 @@ const boxSizeTotal = boxSize(
   elementBorder
 );
 console.log(boxSizeTotal);
-//Habría que hacer un paseInt pero no me apetece, es muy tarde.
+//Habría que hacer un parseInt pero no me apetece, es muy tarde.
