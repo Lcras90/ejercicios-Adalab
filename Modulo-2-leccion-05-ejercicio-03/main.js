@@ -17,3 +17,16 @@ evento.addEventListener("mouseover", showText);
 //   evenT.insertAdjacentElement("beforeend", paragraph);
 // }
 // evenT.addEventListener("mouseover", newParagraph);
+
+// let carajote = document.querySelector(".js-paragraph3");
+// let pAdded = false;
+// function newParagraph() {
+//   if (!pAdded) {
+//     let paragraph = document.createElement("p");
+//     paragraph.textContent =
+//       "Lorem ipsum dolor sit amet, consectetur adipisicing elit";
+//     carajote.insertAdjacentElement("beforeend", paragraph);
+//   }
+//   pAdded = true;
+// }
+// carajote.addEventListener("mouseover", newParagraph);
