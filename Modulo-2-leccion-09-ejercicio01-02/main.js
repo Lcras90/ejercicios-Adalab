@@ -9,10 +9,10 @@ function get100Numbers() {
 }
 
 console.log(get100Numbers());
-let arr2 = get100Numbers();
-console.log(arr2);
 
 // Exercise 2
+let arr2 = get100Numbers();
+console.log(arr2);
 
 function get100NumbersReverse() {
   arr2.reverse();
