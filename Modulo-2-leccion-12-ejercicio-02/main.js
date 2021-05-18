@@ -28,4 +28,4 @@ function selectCity(ev) {
       "https://labingranada.org/wp-content/uploads/2019/09/acerra-del-darro-670x433.png";
   }
 }
-city.addEventListener("click", selectCity);
+city.addEventListener("change", selectCity);
