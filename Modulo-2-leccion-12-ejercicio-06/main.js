@@ -23,6 +23,7 @@ function changeColor(ev) {
   const parentSelect = selectValue.parentElement;
   console.log(ev.target);
   console.log(parentSelect);
+  //Falta completar el color para seleccionar cada uno tal tal
 }
 
 createLi();
